@@ -37,4 +37,4 @@ Contributions are always welcome :-)
 
 # 👨🏻‍💻 Authors
 
-- Shubham Waje - [ikaushiksharma](https://github.com/ikaushiksharma)
+- Kaushik Sharma - [ikaushiksharma](https://github.com/ikaushiksharma)
